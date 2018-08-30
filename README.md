@@ -10,37 +10,28 @@ Fork and clone to your local environment
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Use bundler to install required gems
 
+If required install bundler
 ```
-Give examples
+gem install bundler
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+then install gems using bundler
 ```
-Give the example
+bundle install
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
+```
+rspec
+```
 ## Authors
 
-* **Patrick Harris** - *Initial work* - [TinyGobby](https://github.com/TinyGobby)
+* **Patrick Harris** - [TinyGobby](https://github.com/TinyGobby)
+* **Naziya Kadri** - [nazzkadri](https://github.com/nazzkadri)
+* **Shweta Patil** - [shwetzpatil](https://github.com/shwetzpatil)
+
 
 ## Acknowledgments
 
