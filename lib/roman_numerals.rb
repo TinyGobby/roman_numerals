@@ -16,6 +16,7 @@ class RomanNumber
       if @number - element[0] >= 0
         @result.concat(element[1])
         @number -= element[0]
+        match_numeral
       end
     end
   end
