@@ -38,3 +38,5 @@ rspec
 * Kata suggested by Makers Academy
 
 * Initial blurb taken from [Coding Dojo](https://codingdojo.org/kata/RomanNumerals/)
+
+## Test
